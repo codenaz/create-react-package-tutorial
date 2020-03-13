@@ -6,3 +6,5 @@ A template for creating your react package.
 - Test run your library by importing in `App.js` and running `npm start`.
 - Specify entry file in `rollup.config.js` input field
 - Run `npm run build` to bundle.
+
+To learn more. Read the [article](https://dev.to/emeka)

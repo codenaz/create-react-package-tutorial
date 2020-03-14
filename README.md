@@ -9,4 +9,4 @@ A template for creating your react package.
 - run `npm link` and `npm link <package-name>` from the root of your project to test bundle.
 - Test run your bundle by importing into `App.js` from the package name and running `npm start`.
 
-To learn more. Read the [article](https://dev.to/emeka)
+To learn more. Read the [article](https://dev.to/emeka/creating-and-testing-a-react-package-with-cra-and-rollup-5a4l)
